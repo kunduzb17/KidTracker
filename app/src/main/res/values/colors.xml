@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="primaryColor">#ffca28</color>-->
+    <!--<color name="primaryLightColor">#fffd61</color>-->
+    <!--<color name="primaryDarkColor">#c79a00</color>-->
+    <!--<color name="secondaryColor">#fb8c00</color>-->
+    <!--<color name="secondaryLightColor">#ffbd45</color>-->
+    <!--<color name="secondaryDarkColor">#c25e00</color>-->
+    <!--<color name="primaryTextColor">#000000</color>-->
+    <!--<color name="secondaryTextColor">#000000</color>-->
+    <color name="colorPrimary">#ffca28</color>
+    <color name="colorPrimaryDark">#c79a00</color>
+    <color name="colorPrimaryLight">#fffd61</color>
+    <color name="colorPrimaryDimLight">#ffecb3</color>
+    <color name="colorAccent">#fb8c00</color>
+    <color name="toolbarIconColor">@color/textColorPrimary</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="loginPageBackgroundColor">#FFFFFF</color>
+    <color name="productGridBackgroundColor">#FFFBFA</color>
+
+    <color name="colorControlActivated">@color/colorAccent</color>
+
+</resources>

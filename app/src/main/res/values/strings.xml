@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Kid Tracker</string>
+    <string name="ktr_app_name">Kid Tracker</string>
+    <string name="ktr_hint_role">Role</string>
+    <string name="ktr_hint_hello">Hello message</string>
+    <string name="ktr_hint_bye">Bye message</string>
+    <string name="ktr_hint_username">Email</string>
+    <string name="ktr_hint_password">Password</string>
+    <string name="ktr_button_signup">SIGN UP</string>
+    <string name="ktr_button_signin">SIGN IN</string>
+    <string name="ktr_encourage_signup">Not a member yet?</string>
+    <string name="ktr_yes">Yes</string>
+    <string name="ktr_no">No</string>
+    <string name="ktr_confirm">Confirm</string>
+    <string name="ktr_ask_role">Are you parents?</string>
+    <string name="ktr_plz_wait">Please wait..</string>
+    <string name="ktr_describe_role">Describe your role below</string>
+    <string name="ktr_error_role">You should enter your role.</string>
+    <string name="ktr_error_hello">You should enter hello message.</string>
+    <string name="ktr_error_bye">You should enter bye message.</string>
+    <string name="ktr_network_check">If your app does not start, please check network connection of your device.</string>
+    <string name="ktr_sign_out">Sign out</string>
+    <string name="ktr_register_beacon">Register beacon</string>
+
+    <!-- A collection of defined string from SHRINE app -->
+    <string name="shr_app_name">Shrine</string>
+    <string name="shr_hint_username">Username</string>
+    <string name="shr_hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="shr_error_password">Password must contain at least 8 characters.</string>
+    <string name="shr_filter_title">Filter</string>
+    <string name="shr_search_title">Search</string>
+    <string name="shr_product_title">Title</string>
+    <string name="shr_product_description">Secondary text</string>
+
+    <!-- Shrine backdrop menu labels -->
+    <string name="shr_featured_label">Featured</string>
+    <string name="shr_apartment_label">Apartment</string>
+    <string name="shr_accessories_label">Accessories</string>
+    <string name="shr_shoes_label">Shoes</string>
+    <string name="shr_tops_label">Tops</string>
+    <string name="shr_bottoms_label">Bottoms</string>
+    <string name="shr_dresses_label">Dresses</string>
+    <string name="shr_account_label">My Account</string>
+
+    <!-- Facebook login -->
+    <string name="facebook_application_id">786506965045789</string>
+    <string name="facebook_login_protocol_scheme">fb786506965045789</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

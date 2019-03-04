@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "950003304143",
+    "firebase_url": "https://kid-tracker-88ffa.firebaseio.com",
+    "project_id": "kid-tracker-88ffa",
+    "storage_bucket": "kid-tracker-88ffa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950003304143:android:1df2f87a3c38761a",
+        "android_client_info": {
+          "package_name": "com.google.kaist.lavi.java.kidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950003304143-0050fhfefemjr2ajrebi1ki5n6ur2mqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5bG-Ou8apttN_lbwcu_lwJMGhVjNB85U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

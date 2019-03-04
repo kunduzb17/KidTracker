@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054358368121",
+    "firebase_url": "https://kid-tracker-684c9.firebaseio.com",
+    "project_id": "kid-tracker-684c9",
+    "storage_bucket": "kid-tracker-684c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054358368121:android:840ce2c7bd173f5b",
+        "android_client_info": {
+          "package_name": "com.google.codelabs.mdc.java.shrine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054358368121-4n5ro893hpmsrue63sturvje76fvtfip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.codelabs.mdc.java.shrine",
+            "certificate_hash": "244e62199052db5db4c0ed72c194c33adbe725f2"
+          }
+        },
+        {
+          "client_id": "1054358368121-m3sqkb7j05io528dai304jk3b5f3oqji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKoAVYrYvMLB8O2oHQd2EGUIWHgQ_NNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054358368121-m3sqkb7j05io528dai304jk3b5f3oqji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
